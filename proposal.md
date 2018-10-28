@@ -63,7 +63,7 @@ TeleQueue
    
     ```
     Class SalesNode{
-     int phone number; 
+     int phoneNumber; 
     }
     ```
     
@@ -82,17 +82,17 @@ TeleQueue
     
     }
     
-    int get SalesNode (Marketer M){
+    SalesNode get(Marketer M){
     //Returns the highest priority node for a given marketer
     } 
     
-    void delete SalesNode(Marketer M, SalesNode N ){
+    void delete (Marketer M, SalesNode N ){
     //Delete the SalesNode for a given marketer 
     
     }  
     
     void update Salesnode(Marketer M, SalesNode N){
-    //Update the highest priority node for a given marketer
+    //Update the given node for a given marketer
     
     }
     ```
