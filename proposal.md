@@ -58,29 +58,41 @@ TeleQueue
 * Should allow them to edit number information after making a call
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
+   
     ```
     Class SalesNode{
-    
+     int phone number; 
     }
     ```
     
     ```
     Class Marketer{
-    
+     String firstName;
+     String lastName; 
     }
     ```
     
     ```
     Interface TeleQueue{
     
-    put(SalesNode N){
+    void put(SalesNode N){
     //Adds and sorts a SalesNode into a marketer Queue 
     
     }
     
-    get SalesNode (Marketer M){
+    int get SalesNode (Marketer M){
     //Returns the highest priority node for a given marketer
     } 
+    
+    void delete SalesNode(Marketer M, SalesNode N ){
+    //Delete the SalesNode for a given marketer 
+    
+    }  
+    
+    void update Salesnode(Marketer M, SalesNode N){
+    //Update the highest priority node for a given marketer
+    
+    }
     ```
     
 
