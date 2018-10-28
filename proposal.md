@@ -37,8 +37,18 @@ A telemarketing company has approached us to construct a system to match each po
 TeleQueue
 
 
-2. Output: Describe the output your program will produce.  Include and example format of the output produced.
-
+2. Output: Describe the output your program will produce.  Include an example format of the output produced.
+* We will output a table with names of telemarketers, matched up with associated numbers of customers that they are most suitable to   interact with.
+* Here is an example of the output, with an example of 4 telemarketers and 4 numbers. 
+* | Telemarketer  | Customer Phone Number |
+  | ------------- | ------------- |
+  | John Johnson  | 608-456-7654  |
+  | Dave Daveson  | 608-934-4656  |
+  | Rob Robson  | 763-747-0987 |
+  | Bill Billson  | 612-646-9386  |
+* Here we see that each telemarketer can view the number that is most suitable for them to call 
+  
+ 
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
