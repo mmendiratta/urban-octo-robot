@@ -20,8 +20,9 @@ and missed deadlines.
 
 
 ## How will will communicate difficulties with a task assigned to us
-
-
+* Initially first write out the task on a paper and make sure everyone understand what the task is asking for. 
+* Second, we will put up any possible solution we can come out with and share ideas.
+* Distrubutes the work and update when there is progress.
 
 ## How we will back up each other to ensure that deadlines are not missed
 1) If one team member is falling behind, others will encourage them and help pick up slack.
