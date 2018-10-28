@@ -33,11 +33,11 @@ A telemarketing company has approached us to construct a system to match each po
 
 ## Questions to answer for Exercise #2
 
-1. Name: Give your project proposal a name (and edit the top line of this file)
+**1.** Name: Give your project proposal a name (and edit the top line of this file)
 TeleQueue
 
 
-2. Output: Describe the output your program will produce.  Include and example format of the output produced.
+**2.** Output: Describe the output your program will produce.  Include and example format of the output produced.
 * We will output a table with names of telemarketers, matched up with associated numbers of customers that they are most suitable to   interact with.
 * Here is an example of the output, with an example of 4 telemarketers and 4 numbers. 
 * | Telemarketer  | Customer Phone Number |
@@ -48,18 +48,18 @@ TeleQueue
   | Bill Billson  | 612-646-9386  |
 * Here we see that each telemarketer can view the number that is most suitable for them to call 
 
-3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
+**3.** Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 * Large amount of unsorted phone numbers (no duplicate allows) with demographic information. Ex 608-123-4567
 * log in for telemarkerters (Email address and password) Ex email: badger@wisc.edu passward:cs400xteam47
 * Skills and some basic information to match with phone number. Ex Telemarketer name: Bob Skills:orgainc food 
 
 
-4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
+**4.** User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 * Simple login menu screen for telemarketer to put their email and password into
 * Should lead to display the numbers that telemarketer should be calling based on data from phone number
 * Also allows them to edit number information after making a call
 
-5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
+**5.** Types List: Break your solution idea down into units that you think can be implemented with a single class.
    
     ```
     Class SalesNode{
