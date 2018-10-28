@@ -49,7 +49,9 @@ TeleQueue
 * Here we see that each telemarketer can view the number that is most suitable for them to call 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
-
+* Large amount of unsorted phone numbers (no duplicate allows) with demographic information. Ex 608-123-4567
+* log in for telemarkerters (Email address and password) Ex email: badger@wisc.edu passward:cs400xteam47
+* Skills and some basic information to match with phone number. Ex Telemarketer name: Bob Skills:orgainc food 
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
