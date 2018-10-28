@@ -51,19 +51,19 @@ TeleQueue
 * Should allow them to edit number information after making a call
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
-    '''
+    ```
     Class SalesNode{
     
     }
-    '''
+    ```
     
-    '''
+    ```
     Class Marketer{
     
     }
-    '''
+    ```
     
-    '''
+    ```
     Interface TeleQueue{
     
     put(SalesNode N){
@@ -74,7 +74,7 @@ TeleQueue
     get SalesNode (Marketer M){
     //Returns the highest priority node for a given marketer
     }
-    '''
+    ```
     
 
 Name each interface or class and briefly describe its function or purpose.
