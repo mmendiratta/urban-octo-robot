@@ -17,9 +17,6 @@ and missed deadlines.
 
 
 ## How will will communicate difficulties with a task assigned to us
-* Initially first write out the task on a paper and make sure everyone understand what the task is asking for. 
-* Second, we will put up any possible solution we can come out with and share ideas.
-* Distrubutes the work and update when there is progress.
 
 
 
@@ -30,6 +27,9 @@ and missed deadlines.
 4) Notifications will be sent to teammates on the day of and days preceding due dates. 
 
 ## Add any other rules that your team establishes to help each other work effectively together
-
+Establish team goals;
+Establish more listening and brainstorming;
+Be clear when communicating;
+Finish the assigned task on time;
 
 
