@@ -13,9 +13,9 @@ and missed deadlines.
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
-
-
-
+* The first thing would to be make sure that everyone understands their specific task to complete out of however many are needed for the project. 
+* The second thing is to have progress updates once a week (Sundays) and make sure that everyone is still on the same page, and if a member needs help then it is supplied. 
+* The third thing is to make sure that everything is assigned and completed before the deadline.
 ## How will will communicate difficulties with a task assigned to us
 * Initially first write out the task on a paper and make sure everyone understand what the task is asking for. 
 * Second, we will put up any possible solution we can come out with and share ideas.
