@@ -1,4 +1,4 @@
-# X-Team NN Rules
+# X-Team 47 Rules
 
 These rules establish how our team will assign tasks,
 track progress on each task, and communicate with each other 
@@ -9,7 +9,10 @@ and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
 ## How we will assign (and reassign) tasks
-
+1. We will evaluate the tasks assigned by the instructor and categorize them based on difficulty (time committment) and deadline. 
+2. We will then categorize the tasks as _group_ or as _individual_, based on the percieved time committment and difficulty, and assign as such
+3. Then, we will either break off or get together to complete the tasks. 
+4. Once the deadline of task completion approaches, we will evaluate the tasks and see whether or not we need to colloborate on the tasks or reassign to a team member that understands the task better. 
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
