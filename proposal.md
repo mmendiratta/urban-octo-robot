@@ -1,4 +1,4 @@
-# X-Team NN Project Proposal
+# X-Team 47 TeleQueue
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -29,13 +29,12 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-Briefly describe a problem that your team would like to solve.  
-Describe at a high level a program that could solve that problem.
+A telemarketing company has approached us to construct a system to match each potential sales point (consisting of demographic information, preferences, as well as a phone number) to a marketer who can effectively sell to them. this would be based on factors like language, gender, and other personal preferences. Each telemarketer has a wide variety of data points detailing whom they most effectively sell to. 
 
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
-
+TeleQueue
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
@@ -49,9 +48,10 @@ Describe at a high level a program that could solve that problem.
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
 
-
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
-
+    Class SalesNode{
+    
+    }
 
 
 Name each interface or class and briefly describe its function or purpose.
