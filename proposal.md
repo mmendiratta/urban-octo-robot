@@ -1,4 +1,4 @@
-# X-Team NN Project Proposal
+# X-Team 47 TeleQueue
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -29,32 +29,60 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-Briefly describe a problem that your team would like to solve.  
-Describe at a high level a program that could solve that problem.
+A telemarketing company has approached us to construct a system to match each potential sales point (consisting of demographic information, preferences, as well as a phone number) to a marketer who can effectively sell to them. this would be based on factors like language, gender, and other personal preferences. Each telemarketer has a wide variety of data points detailing whom they most effectively sell to. 
 
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
-
+TeleQueue
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
-
-
+* We will output a table with names of telemarketers, matched up with associated numbers of customers that they are most suitable to   interact with.
+* Here is an example of the output, with an example of 4 telemarketers and 4 numbers. 
+* | Telemarketer  | Customer Phone Number |
+  | ------------- | ------------- |
+  | John Johnson  | 608-456-7654  |
+  | Dave Daveson  | 608-934-4656  |
+  | Rob Robson  | 763-747-0987 |
+  | Bill Billson  | 612-646-9386  |
+* Here we see that each telemarketer can view the number that is most suitable for them to call 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
-* Large amount of unsorted phone numbers (no duplicate allows). Ex 608-123-4567
-* log in for telemarkerters (Email address and password) Ex email: badger@wisc.edu passward:cs400xteam47
-* Skills and some basic information to match with phone number. Ex Telemarketer name: Bob Skills:orgainc food 
+
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
-
-
+* Simple login menu screen for telemarketer to put their email and password into
+* Should lead to display the numbers that telemarketer should be calling based on data from phone number
+* Also allows them to edit number information after making a call
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
-
-
+    ```
+    Class SalesNode{
+    
+    }
+    ```
+    
+    ```
+    Class Marketer{
+    
+    }
+    ```
+    
+    ```
+    Interface TeleQueue{
+    
+    put(SalesNode N){
+    //Adds and sorts a SalesNode into a marketer Queue 
+    
+    }
+    
+    get SalesNode (Marketer M){
+    //Returns the highest priority node for a given marketer
+    } 
+    ```
+    
 
 Name each interface or class and briefly describe its function or purpose.
 
