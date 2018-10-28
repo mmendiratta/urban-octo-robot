@@ -58,7 +58,9 @@ TeleQueue
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
-
+* login screen for telemarketer
+* Should then display the numbers that telemarketer should be calling based on data from phone number
+* Should allow them to edit number information after making a call
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
     Class SalesNode{
