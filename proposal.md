@@ -73,7 +73,7 @@ TeleQueue
     
     get SalesNode (Marketer M){
     //Returns the highest priority node for a given marketer
-    }
+    } 
     ```
     
 
